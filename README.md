@@ -11,6 +11,10 @@
 ### 📃 Projects created
 [🐙PlunderIT](https://www.plunderit.io/)
 
+### 🤓 Certifications
+[Allura Oracle One
+](https://app.aluracursos.com/user/nicolavietch/fullCertificate/0985a9cb982f60197f7b2004a75234ec)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nicolavietch&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
