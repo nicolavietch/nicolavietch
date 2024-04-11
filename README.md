@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PlunderIT<br>👯 I’m looking to collaborate on DevOps technology<br>🤝 I’m looking for help with IA,<br>🌱 I’m currently learning Python, Tailwind, Framer Motion, Cyber Security<br>💬 Ask me about Javascript, React, NextJs, CSS, SASS<br>⚡ I love videogames
+🔭 I’m currently looking for oportunities<br>👯 I’m looking to collaborate on DevOps technology or ciber security<br>🤝 I’m looking for help with IA,<br>🌱 I’m currently learning Python and Cyber Security<br>💬 Ask me about Javascript, React, NextJs, CSS, SASS, Tailwind, Framer Motion,<br>⚡ I love videogames
 
 
 ## 🌐 Socials:
